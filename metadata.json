@@ -1,0 +1,6 @@
+{
+  "name": "Aura Productivity",
+  "description": "A gamified task manager & productivity dashboard with pro recurring deadlines, accessibility, OLED dark mode, and Aura AI Coaching powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
